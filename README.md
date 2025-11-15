@@ -342,7 +342,7 @@ Air-Mouse-ESP32/
 * Stable BLE performance
 * Accurate scroll and click
 * Fully functional wireless system
-* Evaluated as *“Very Good, Nice Innovation”* — awarded **10/10 marks**
+
 
 ---
 
